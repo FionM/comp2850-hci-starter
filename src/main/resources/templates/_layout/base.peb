@@ -41,7 +41,10 @@
     </main>
 
     <footer>
-        <p>
+        <p>button[type="submit"],
+           button {
+                color: #FFFFFF !important; 
+            }
             <small>
                 COMP2850 HCI &bull; Server-first architecture &bull;
                 <a href="https://htmx.org/docs/" target="_blank" rel="noopener">HTMX Docs</a> &bull;

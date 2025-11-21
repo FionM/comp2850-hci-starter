@@ -1,1 +1,8 @@
-id,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix
+id,title,story_ref,story_type,need,type,severity,inclusion_risk,evidence,notes,candidate_fix, priority_score
+
+1, Non text content requires text, Fails AA 1.4.3, wk07/audit/axe-report.md#Issue1, WCAG violation, Visibility, false, n/a
+2, Add task text colour contrast 1,1:1 (fails AA), wk07/audit/axe-report.md#Issue2, WCAG violation, Visibility, Accessibility, High, "Low vision, Situational", Ratio is currently 1.1:1 needs to be 4.5:1. Currently light grey text on blue button, true, 9
+3, No confirmation for delete action, wk07/audit/heuristics.md#H3, Heuristic violation, Error prevention, Usability, Medium," Motor,Cognitive", "Nielsen H3 + H5", "Accidental clicks cause permanent deletion; add confirmation dialog", false, n/a
+4, No undo feature for delete, wk07/audit/heuristics.md#H3, Heuristic violation, Customer control, Usability, Low, "Motor, Cognitive", "Nielsen H3", "Do in Semester 2; requires state management",false, n/a
+5, No help documentation or tooltips, wk07/audit/heuristics.md#H10, Heuristic violation, Learning support, Usability, Low, Cognitive, "Nielsen H10", "Do in Semester 2; low priority",false, n/a
+
