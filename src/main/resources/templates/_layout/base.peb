@@ -42,7 +42,7 @@
 
     <footer>
         <p>button[type="submit"],
-           button {
+         button {
                 color: #FFFFFF !important; 
             }
             <small>
