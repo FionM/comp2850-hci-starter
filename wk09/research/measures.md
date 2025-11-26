@@ -75,6 +75,6 @@
 - Think-aloud notes: Freeform observations
 - Accessibility notes: Specific barriers encountered
 
-**Sample size**: 3-5 participants (peer pilots)
+**Sample size**: 3-4 participants (peer pilots)
 
 **Storage**: `data/metrics.csv` (local, .gitignored)
