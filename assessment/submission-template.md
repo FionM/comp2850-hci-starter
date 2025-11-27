@@ -63,6 +63,7 @@
 ---
 
 ### Consent Script (They Read Verbatim)
+## In wk09/research/protocol.md
 
 **Introduction**:
 "Thank you for participating in my HCI evaluation. This will take about 15 minutes. I'm testing my task management interface, not you. There are no right or wrong answers."
@@ -73,11 +74,15 @@
 - [ ] "I may take screenshots and notes. I'll remove any identifying information."
 - [ ] "Do you consent to participate?" [Wait for verbal yes]
 
+**In wk09/research/consent.md**
+
 **Recorded consent timestamp**: [e.g., "P1 consented 22/11/2025 14:05"]
 
 ---
 
 ## 2. Findings Table
+## wk09/data/pilot-notes.md
+Fill this is when doing pilot tests
 
 **Instructions**: Fill in this table with 3-5 findings from your pilots. Link each finding to data sources.
 
